@@ -1,7 +1,7 @@
 criaCartao(
     'Anime',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Quando é o aniversário do Luffy?',
+    'Ele faz aniversário dia 05 de maio, Dia das crianças no Japão.'
 )
 
 criaCartao(
