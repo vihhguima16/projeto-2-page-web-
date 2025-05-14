@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    '',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Biotecnologia',
+    'Qual o nome científico do Morango?',
+    'O nome científico do Morango é Fragaria × ananassa'
 )
 
 criaCartao(
