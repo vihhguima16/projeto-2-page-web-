@@ -19,7 +19,7 @@ body {
 
 .cartao {
     margin: 2rem 2rem;
-    height: 25rem;
+    height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
 }
