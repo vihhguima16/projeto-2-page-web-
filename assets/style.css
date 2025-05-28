@@ -1,11 +1,11 @@
 :root {
     --text-color: #f98888;
-    --card-front-color: #6d0202;
+    --card-front-color: rgb(195, 0, 0);
     --card-back-color: #4e0505;
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: color: rgb(128, 67,67);
     font-family: 'Times New Roman', Times, serif;
 }
 
