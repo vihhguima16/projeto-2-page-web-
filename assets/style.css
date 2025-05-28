@@ -19,7 +19,7 @@ body {
 
 .cartao {
     margin: 2rem 2rem;
-    height: 30rem;
+    height: 25rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
 }
@@ -49,7 +49,7 @@ body {
     margin-top: 1rem;
     padding: 2rem;
     margin-top: 4rem;
-    font-size: 1.4vw;
+    font-size: 1.9vw;
 }
 
 .cartao__conteudo__pergunta p {
